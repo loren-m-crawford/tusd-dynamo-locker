@@ -4,11 +4,11 @@ import (
 	"context"
 	"flag"
 	"github.com/aws/aws-sdk-go-v2/service/dynamodb/types"
-	dynamolocker "github.com/chen-anders/tusd-dynamo-locker"
+	dynamolocker "github.com/loren-crawford/tusd-dynamo-locker"
 	"log"
 
 	"github.com/aws/aws-sdk-go-v2/config"
-	"github.com/aws/aws-sdk-go-v2/service/dynamodb"
+	"github.com/aws/aws-sdk-go-v2/service/dynamodb"g
 )
 
 func main() {

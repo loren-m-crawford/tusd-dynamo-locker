@@ -4,7 +4,7 @@ import (
 	"context"
 	"flag"
 	"github.com/aws/aws-sdk-go-v2/service/dynamodb/types"
-	dynamolocker "github.com/loren-crawford/tusd-dynamo-locker"
+	dynamolocker "github.com/loren-m-crawford/tusd-dynamo-locker"
 	"log"
 
 	"github.com/aws/aws-sdk-go-v2/config"

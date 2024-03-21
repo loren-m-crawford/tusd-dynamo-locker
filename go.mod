@@ -1,4 +1,4 @@
-module github.com/loren-crawford/tusd-dynamo-locker
+module github.com/loren-m-crawford/tusd-dynamo-locker
 
 go 1.21
 
